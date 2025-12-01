@@ -1,9 +1,0 @@
-- Código del submit de la competencia:
-Para ejecutar sólo correr cada celda (ajustando de ser necesario la dirección del home para que lea el dataset gerencial y el xlsx).
-En el directorio también se encuentra el archivo xlsx utilizado para data drifting 
-
-- Dirección al Google Sheet con resumen de todos los exp. generados:
-https://docs.google.com/spreadsheets/d/1wPl5JDy9AmelENLWG0TYQb7NGmf6u27QoiC6vCIpR8U/edit?gid=0#gid=0
-
-- Dirección a los códigos de los exp:
-https://github.com/matifards/labo2025v/tree/main/src/comp-kaggle-matifards 
