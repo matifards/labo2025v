@@ -1,0 +1,14 @@
+- Código del submit de la competencia:
+Está para ejecutar en CLOUD (aun que el archivo diga colab)
+Para ejecutar sólo correr cada celda (ajustando de ser necesario la dirección del home para que lea el dataset gerencial y el xlsx).
+Para ejecutar en Colab descomentar las líneas correspondientes.
+
+- Dirección al Google Sheet con resumen de los exp. generados:
+https://docs.google.com/spreadsheets/d/1wPl5JDy9AmelENLWG0TYQb7NGmf6u27QoiC6vCIpR8U/edit?gid=0#gid=0
+
+- Dirección a los códigos de los exp:
+https://github.com/matifards/labo2025v/tree/main/src/comp-kaggle-matifards 
+
+- Archivos complementarios:
+Se adjunta análisis de ganancia
+Se adjunta dataset de trabajo
